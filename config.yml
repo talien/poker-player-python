@@ -1,3 +1,3 @@
 port: 9000
 path: /
-dependencies: [python-scgi]
+dependencies: python-scgi
